@@ -39,4 +39,11 @@
 <img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/06_visualizaiton.jpg" alt="drawing" width="1200"/>
 </div>
 
-## Local deployment
+## Local usage
+#### 1. Download UI and server script of IP4GS
+#### 2. source UI and sever script
+#### 3. install all dependence package in code
+#### 4. library all packages and run IP4GS
+```R
+shinyApp(options = list(launch.browser=T),ui = UI,server = server)
+```
