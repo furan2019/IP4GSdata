@@ -6,4 +6,19 @@
 ![](https://img.shields.io/badge/platform-Win%20%7C%20Linux%20%7C%20MacOS-lightgrey?style=plastic)<br/>
 
 
-[IP4GS](https://ngdc.cncb.ac.cn/ip4gs/), an interactive platform for genomic selection, offers a user-friendly interface for performing streamlined GS analysis involving the above-mentioned steps simply through point-and-click actions. IP4GS currently includes seven commonly used models, 11 evaluation metrics, and visualization modules, offering great convenience for plant breeders with limited bioinformatics knowledge to apply GS analysis.
+[IP4GS](https://ngdc.cncb.ac.cn/ip4gs/), an ***i***nteractive ***p***latform ***for*** ***g***enomic ***s***election, offers a user-friendly interface for performing streamlined GS analysis involving the above-mentioned steps simply through point-and-click actions. IP4GS currently includes seven commonly used models, 11 evaluation metrics, and visualization modules, offering great convenience for plant breeders with limited bioinformatics knowledge to apply GS analysis.
+
+### Quick start
+#### 1. Upload data
+
+#### 2. Data preprocessing
+
+#### 3. 
+
+#### 4.
+
+#### 5.
+
+#### 6.
+
+## Local deployment
