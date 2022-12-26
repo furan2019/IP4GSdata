@@ -10,7 +10,9 @@
 
 ### Quick start
 #### 1. Upload data
-[](https://github.com/furan2019/IP4GSdata/blob/main/pic/01_upload.jpg)
+<div align="center">
+<img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/01_upload.jpg" alt="drawing" width="900"/>
+</div>
 #### 2. Data preprocessing
 [](https://github.com/furan2019/IP4GSdata/blob/main/pic/02_datapreprocessing.jpg)
 #### 3. 
