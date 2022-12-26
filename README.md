@@ -11,16 +11,26 @@
 ### Quick start
 #### 1. Upload data
 <div align="center">
-<img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/01_upload.jpg" alt="drawing" width="900"/>
+<img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/01_upload.jpg" alt="drawing" width="1200"/>
 </div>
 #### 2. Data preprocessing
-[](https://github.com/furan2019/IP4GSdata/blob/main/pic/02_datapreprocessing.jpg)
+<div align="center">
+<img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/02_datapreprocessing.jpg" alt="drawing" width="1200"/>
+</div>
 #### 3. 
-[](https://github.com/furan2019/IP4GSdata/blob/main/pic/03_datashow.jpg)
+<div align="center">
+<img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/03_datashow.jpg" alt="drawing" width="1200"/>
+</div>
 #### 4.
-[](https://github.com/furan2019/IP4GSdata/blob/main/pic/04_DR_showDownload.jpg)
+<div align="center">
+<img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/04_DR_showDownload.jpg" alt="drawing" width="1200"/>
+</div>
 #### 5.
-[](https://github.com/furan2019/IP4GSdata/blob/main/pic/05_G2Pprediction.jpg)
+<div align="center">
+<img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/05_G2Pprediction.jpg" alt="drawing" width="1200"/>
+</div>
 #### 6.
-[](https://github.com/furan2019/IP4GSdata/blob/main/pic/06_visualizaiton.jpg)
+<div align="center">
+<img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/06_visualizaiton.jpg" alt="drawing" width="1200"/>
+</div>
 ## Local deployment
