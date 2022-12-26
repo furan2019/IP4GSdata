@@ -13,24 +13,30 @@
 <div align="center">
 <img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/01_upload.jpg" alt="drawing" width="1200"/>
 </div>
-#### 2. Data preprocessing
+
+#### 2. Genotypic data filtration and input data preview
 <div align="center">
 <img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/02_datapreprocessing.jpg" alt="drawing" width="1200"/>
 </div>
-#### 3. 
+
+#### 3. Data visualization console and dimension reduction console
 <div align="center">
 <img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/03_datashow.jpg" alt="drawing" width="1200"/>
 </div>
-#### 4.
+
+#### 4. Preview of DR data
 <div align="center">
 <img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/04_DR_showDownload.jpg" alt="drawing" width="1200"/>
 </div>
-#### 5.
+
+#### 5. Genotype-to-phenotype prediction
 <div align="center">
 <img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/05_G2Pprediction.jpg" alt="drawing" width="1200"/>
 </div>
-#### 6.
+
+#### 6. Viewing scatter plots of observed and predicted phenotypes
 <div align="center">
 <img src="https://github.com/furan2019/IP4GSdata/blob/main/pic/06_visualizaiton.jpg" alt="drawing" width="1200"/>
 </div>
+
 ## Local deployment
