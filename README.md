@@ -10,15 +10,15 @@
 
 ### Quick start
 #### 1. Upload data
-
+[](https://github.com/furan2019/IP4GSdata/blob/main/pic/01_upload.jpg)
 #### 2. Data preprocessing
-
+[](https://github.com/furan2019/IP4GSdata/blob/main/pic/02_datapreprocessing.jpg)
 #### 3. 
-
+[](https://github.com/furan2019/IP4GSdata/blob/main/pic/03_datashow.jpg)
 #### 4.
-
+[](https://github.com/furan2019/IP4GSdata/blob/main/pic/04_DR_showDownload.jpg)
 #### 5.
-
+[](https://github.com/furan2019/IP4GSdata/blob/main/pic/05_G2Pprediction.jpg)
 #### 6.
-
+[](https://github.com/furan2019/IP4GSdata/blob/main/pic/06_visualizaiton.jpg)
 ## Local deployment
