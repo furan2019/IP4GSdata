@@ -40,10 +40,10 @@
 </div>
 
 ## Local usage
-#### 1. Download UI and server script of IP4GS
-#### 2. source UI and sever script
-#### 3. install all dependence package in code
-#### 4. library all packages and run IP4GS
+#### 1. Download UI and server scripts of IP4GS
+#### 2. Source UI and sever scripts
+#### 3. Install all dependence package in the scripts
+#### 4. Library all packages and run IP4GS
 ```R
 shinyApp(options = list(launch.browser=T),ui = UI,server = server)
 ```
